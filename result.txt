@@ -1,0 +1,16 @@
+Parsing PROP
+Solving (randomize)  10000/5394 (0.00 %).
+Computing static variable order.
+restarts              : 7
+conflicts             : 89
+learnt_clauses        : 89
+forgotten_clauses     : 0
+decisions             : 5508
+propagations          : 69393
+inspect_binary        : 120991
+inspect_normal        : 135253
+inspect_learnt        : 1297
+CPU time              : 0.5 s
+
+SATISFIABLE
+MODEL: s111 s166 s173 s223 s251 s284 s339 s345 s397 s436 s443 s522 s558 s617 s664 s735 s749 s793 s819 s871 s928 s952 s987 s125 s137 s144 s159 s182 s198 s216 s238 s247 s262 s275 s299 s312 s324 s353 s368 s376 s381 s418 s421 s455 s467 s474 s489 s492 s515 s534 s541 s569 s577 s583 s596 s629 s633 s642 s656 s678 s685 s691 s714 s726 s757 s761 s772 s788 s827 s832 s848 s854 s863 s886 s895 s913 s931 s946 s965 s979 s994
